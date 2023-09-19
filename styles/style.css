@@ -836,7 +836,7 @@ ol li::before {
     left: -279px;
   }
   .main-screen__img img {
-    transform: translate(0px, -276px) scale(1);
+    transform: translate(0px, -236px) scale(1);
   }
   .main-screen-back p {
     font-size: 120px;
@@ -845,7 +845,7 @@ ol li::before {
     top: 807px;
   }
   .main-screen__text {
-    margin: -400px 0 166px 0;
+    margin: -360px 0 166px 0;
   }
   .main-screen__img {
     height: 694px;
@@ -909,6 +909,15 @@ ol li::before {
   }
   .main-screen__text p::first-letter {
     font-size: 24px;
+  }
+  .main-screen {
+    margin: 9px 0 0px 0;
+  }
+  .main-screen__description-img {
+    height: 287px;
+  }
+  .faq__back-rounds .faq-round-2 {
+    top: -370px;
   }
 }
 /* adaptability */
