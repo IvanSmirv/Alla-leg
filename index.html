@@ -4,13 +4,14 @@
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
   <link rel="stylesheet" href="styles/style.css" />
   <title>Lux DOCS</title>
 </head>
 
 <body>
   <div class="body-wrapper">
-    <header class="header">
+    <header class="header animate__animated animate__bounceInDown">
       <div class="container">
         <div class="header__round"></div>
         <div class="header__body">
@@ -34,7 +35,7 @@
     <section class="main-screen">
       <div class="container">
         <div class="main-screen__body">
-          <div class="main-screen__description">
+          <div class="main-screen__description animate__animated animate__backInLeft">
             <div class="main-screen__description-img">
               <img src="img/logo.png" alt="">
             </div>
@@ -48,7 +49,8 @@
                 href="https://docs.google.com/forms/d/e/1FAIpQLSddGRZ-R1kJjG2qAQw7bAogfHJLfVwERlib3Zg-BrCGov6ZlQ/viewform">Записаться</a>
             </div>
           </div>
-          <div class="main-screen__img" data-da="main-screen__description, 1, 770">
+          <div class="main-screen__img animate__animated animate__backInRight"
+            data-da="main-screen__description, 1, 770">
             <img src="img/main-img.png" alt="">
           </div>
         </div>
@@ -251,7 +253,7 @@
       </div>
     </footer>
   </div>
-  <script src="js/less_4.2.0.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/less.js/4.2.0/less.min.js"></script>
   <script src="js/DynamicAdaptive.js"></script>
   <script src="js/script.js"></script>
 </body>
