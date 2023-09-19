@@ -867,7 +867,7 @@ ol li::before {
     font-size: 20px;
   }
   .main-screen__btns a {
-    padding: 20px 30px;
+    padding: 16px 24px;
   }
   .footer__line img:last-child {
     display: block;
@@ -892,7 +892,7 @@ ol li::before {
     margin: 0 0 -217px 0;
   }
   .main-screen__btns {
-    transform: translate(0px, -157px);
+    transform: translate(0px, -144px);
   }
 }
 /* adaptability */
