@@ -829,20 +829,14 @@ ol li::before {
   .main-screen__description-img {
     width: 320px;
   }
-  .main-screen__img img {
-    transform: translate(0px, -334px) scale(1);
-  }
   .header__round {
     width: 400px;
     height: 400px;
     top: -43px;
-    left: -250px;
-  }
-  .main-screen__img {
-    width: 321px;
+    left: -279px;
   }
   .main-screen__img img {
-    transform: translate(0px, -416px) scale(1);
+    transform: translate(0px, -276px) scale(1);
   }
   .main-screen-back p {
     font-size: 120px;
@@ -854,7 +848,7 @@ ol li::before {
     margin: -400px 0 166px 0;
   }
   .main-screen__img {
-    height: 486px;
+    height: 694px;
   }
   .faq__row_1 > div,
   .faq__row_3 > div {
