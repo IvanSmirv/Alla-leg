@@ -894,5 +894,17 @@ ol li::before {
   .main-screen__btns {
     transform: translate(0px, -144px);
   }
+  .faq__item-title {
+    font-size: 40px;
+  }
+  .popup__content p,
+  .faq__item-description > p,
+  .faq__item-text p,
+  .faq__item-text li {
+    font-size: 16px;
+  }
+  .faq__item-text {
+    margin: 20px 0px;
+  }
 }
 /* adaptability */
