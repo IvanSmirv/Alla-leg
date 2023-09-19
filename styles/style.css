@@ -888,5 +888,11 @@ ol li::before {
     width: 25px;
     height: 25px;
   }
+  .main-screen-back {
+    margin: 0 0 -217px 0;
+  }
+  .main-screen__btns {
+    transform: translate(0px, -157px);
+  }
 }
 /* adaptability */
