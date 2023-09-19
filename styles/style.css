@@ -889,7 +889,7 @@ ol li::before {
     margin: 0 0 -217px 0;
   }
   .main-screen__btns {
-    transform: translate(0px, -144px);
+    transform: translate(0px, -148px);
   }
   .faq__item-title {
     font-size: 40px;
@@ -903,6 +903,12 @@ ol li::before {
   }
   .faq__item-text {
     margin: 20px 0px;
+  }
+  .header__logo a::after {
+    transform: translate(13px, 2px);
+  }
+  .main-screen__text p::first-letter {
+    font-size: 24px;
   }
 }
 /* adaptability */
