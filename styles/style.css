@@ -851,7 +851,10 @@ ol li::before {
     top: 807px;
   }
   .main-screen__text {
-    margin: -652px 0 166px 0;
+    margin: -400px 0 166px 0;
+  }
+  .main-screen__img {
+    height: 486px;
   }
   .faq__row_1 > div,
   .faq__row_3 > div {
@@ -900,7 +903,8 @@ ol li::before {
   .popup__content p,
   .faq__item-description > p,
   .faq__item-text p,
-  .faq__item-text li {
+  .faq__item-text li,
+  .popup__content li {
     font-size: 16px;
   }
   .faq__item-text {
