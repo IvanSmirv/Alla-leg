@@ -845,7 +845,7 @@ ol li::before {
     transform: translate(0px, -416px) scale(1);
   }
   .main-screen-back p {
-    font-size: 96px;
+    font-size: 120px;
   }
   .main-screen-back .round-1 {
     top: 807px;
@@ -871,7 +871,7 @@ ol li::before {
   }
   .footer__line img:last-child {
     display: block;
-    width: 42px;
+    width: 100%;
   }
   .footer__logo a {
     font-size: 17px;
