@@ -707,10 +707,10 @@ ol li::before {
     justify-content: center;
   }
   .header__round {
-    width: 400px;
-    height: 400px;
-    top: -31px;
-    left: -203px;
+    width: 305px;
+    height: 305px;
+    top: -43px;
+    left: -193px;
   }
   .header__tel {
     margin: 0 0 0 50px;
@@ -838,7 +838,7 @@ ol li::before {
     left: -279px;
   }
   .main-screen__img img {
-    transform: translate(0px, -236px) scale(1);
+    transform: translate(20px, -236px) scale(1);
   }
   .main-screen-back p {
     font-size: 120px;
