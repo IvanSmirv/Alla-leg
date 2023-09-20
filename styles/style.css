@@ -909,7 +909,10 @@ ol li::before {
     margin: 20px 0px;
   }
   .header__logo a::after {
-    transform: translate(13px, 2px);
+    transform: translate(10px, 0px);
+    background: url(../img/icons/arrow-1.svg) center right / 25px 17px no-repeat;
+    width: 25px;
+    height: 15px;
   }
   .main-screen__text p::first-letter {
     font-size: 24px;
