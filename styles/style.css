@@ -259,7 +259,7 @@ ol li::before {
   width: 100%;
   height: 85%;
   object-fit: contain;
-  transform: scale(1.4) translate(100px, 0px);
+  transform: scale(1.4) translate(100px, -40px);
   position: absolute;
   left: 0;
   bottom: 0;
@@ -318,7 +318,7 @@ ol li::before {
   width: 100%;
   height: 100%;
   object-fit: contain;
-  transform: translate(49px, -22px) scale(1.15);
+  transform: translate(49px, -64px) scale(1.15);
 }
 .main-screen-back p {
   font-family: "Gilroy";
